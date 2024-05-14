@@ -17,6 +17,8 @@ The visualization tool serves to provide a meaningful representation of earthqua
 
 # Sample Snapshot
 
+![image-1](https://github.com/belindaho2828/leaflet_USGS/assets/155488822/222b17de-e71c-4e9f-b828-139de9b0dc79)
+
 
 # Conclusion
 Many of the deepest earthquakes are concentrated around the Pacific Ocean: west coast of South America, Fiji Islands, Tonga, and Alaska just to name a few regions. Governments should take this into account for city planning, emergency safety measures, and evacuation plans. We should take care to study how and if climate change affects this and communicate what preventative measures citizens need to take.
@@ -24,6 +26,8 @@ Many of the deepest earthquakes are concentrated around the Pacific Ocean: west 
 # Tools Used
 
 Leaflet: used for map visualization, including interactive tool tips and markers
+
+![image](https://github.com/belindaho2828/leaflet_USGS/assets/155488822/372d1d89-348a-490e-b948-2c5eaaa95575)
 
 
 JavaScript: used as the underlying programming language to script the app's behavior and dynamically updates the HTMl.  
